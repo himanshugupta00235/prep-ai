@@ -38,13 +38,13 @@
 ### Questions Screen
 ![Questions](assets/screenshots/questions.png)
 
-### Bookmarks Screen
+### Description Screen
 ![Bookmarks](assets/screenshots/bookmarks.png)
 
-### Profile Screen
+### Bookmarks Screen
 ![Profile](assets/screenshots/profile.png)
 
-### Question Details Screen
+### Profile Screen
 ![Question Details](assets/screenshots/details.png)
 
 ---
