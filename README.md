@@ -28,15 +28,34 @@
 
 ## 📸 Screenshots
 
-> Screenshots will be added after running the app on a device/emulator.
+### Login Screen
+![Login Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.21.55%20PM.png)
 
-| Splash | Login | Dashboard | Questions |
-|--------|-------|-----------|-----------|
-| *Coming soon* | *Coming soon* | *Coming soon* | *Coming soon* |
+---
 
-| Question Detail | AI Answer | Bookmarks | Profile |
-|----------------|-----------|-----------|---------|
-| *Coming soon* | *Coming soon* | *Coming soon* | *Coming soon* |
+### Dashboard Screen
+![Dashboard Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.12%20PM.png)
+
+---
+
+### Questions Screen
+![Questions Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.38%20PM.png)
+
+---
+
+### Bookmarks Screen
+![Bookmarks Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.58%20PM.png)
+
+---
+
+### Profile Screen
+![Profile Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.24.38%20PM.png)
+
+---
+
+### Question Details Screen
+![Question Details](assets/screenshots/Screenshot%202026-06-22%20at%202.25.08%20PM.png)
+
 
 ---
 
