@@ -287,7 +287,7 @@ This project is licensed under the MIT License.
 **Himanshu**
 
 
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/himanshu-gupta-383a6b220/])
+- LinkedIn: [Your LinkedIn] [https://www.linkedin.com/in/himanshu-gupta-383a6b220/]
 
 ---
 
