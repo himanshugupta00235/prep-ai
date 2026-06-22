@@ -286,11 +286,11 @@ This project is licensed under the MIT License.
 
 **Himanshu**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+- LinkedIn: [Your LinkedIn] [https://www.linkedin.com/in/himanshu-gupta-383a6b220/]
 
 ---
 
 <p align="center">
-  Built with ❤️ using Flutter & Firebase
+  Built using Flutter & Firebase
 </p>
