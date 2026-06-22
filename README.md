@@ -29,32 +29,22 @@
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.21.55%20PM.png)
-
----
+![Login](assets/screenshots/login.png)
 
 ### Dashboard Screen
-![Dashboard Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.12%20PM.png)
-
----
+![Dashboard](assets/screenshots/dashboard.png)
 
 ### Questions Screen
-![Questions Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.38%20PM.png)
-
----
+![Questions](assets/screenshots/questions.png)
 
 ### Bookmarks Screen
-![Bookmarks Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.23.58%20PM.png)
-
----
+![Bookmarks](assets/screenshots/bookmarks.png)
 
 ### Profile Screen
-![Profile Screen](assets/screenshots/Screenshot%202026-06-22%20at%202.24.38%20PM.png)
-
----
+![Profile](assets/screenshots/profile.png)
 
 ### Question Details Screen
-![Question Details](assets/screenshots/Screenshot%202026-06-22%20at%202.25.08%20PM.png)
+![Question Details](assets/screenshots/details.png)
 
 
 ---
