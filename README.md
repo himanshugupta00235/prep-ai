@@ -8,6 +8,11 @@
 ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 > A polished, production-quality Flutter application that helps students prepare for technical interviews with curated questions, AI-powered answers, and progress tracking.
+>
+> 🔗 **Live Demo:** https://prepai-5819e.web.app/#/home
+
+AI-powered interview preparation platform built with Flutter and Firebase.
+
 
 ---
 
