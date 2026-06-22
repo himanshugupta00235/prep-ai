@@ -51,6 +51,18 @@ AI-powered interview preparation platform built with Flutter and Firebase.
 ### Profile Screen
 ![Question Details](assets/screenshots/details.png)
 
+## 🍎 iPhone Screenshots
+
+<p align="center">
+  <img src="assets/iphone/iphone1.png" width="220">
+  <img src="assets/iphone/iphone2.png" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/iphone/iphone3.png" width="220">
+  <img src="assets/iphone/iphone4.png" width="220">
+</p>
+
 ---
 
 ## 🏗️ Architecture

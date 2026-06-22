@@ -17,6 +17,7 @@ import 'package:prep_ai/viewmodels/questions_viewmodel.dart';
 import 'package:prep_ai/viewmodels/bookmark_viewmodel.dart';
 import 'package:prep_ai/viewmodels/ai_answer_viewmodel.dart';
 import 'package:prep_ai/viewmodels/profile_viewmodel.dart';
+import 'package:flutter/foundation.dart';
 // TODO: Import firebase_options.dart after running `flutterfire configure`
 import 'firebase_options.dart';
 
@@ -25,9 +26,13 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // Initialize Firebase
+  if (kIsWeb) {
   await Firebase.initializeApp(
-  options: DefaultFirebaseOptions.currentPlatform,
+    options: DefaultFirebaseOptions.currentPlatform,
   );
+} else {
+  await Firebase.initializeApp();
+}
 
   // Initialize local storage
   final storageService = StorageService();
