@@ -27,7 +27,6 @@
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Login Screen
 ![Login](assets/screenshots/login.png)
